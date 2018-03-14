@@ -1,0 +1,15 @@
+---
+title: First blog post
+author: Jamie
+date: '2018-03-14'
+slug: first-blog-post
+categories: []
+tags: []
+---
+
+This is my first post
+
+```{r}
+#check out my code 
+print("Hello world!")
+```
